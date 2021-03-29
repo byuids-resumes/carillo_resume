@@ -1,14 +1,13 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Spencer Carillo's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Spencer Carillo
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="scarillo130@gmail.com">scarillo130@gmail.com</a>
+| <a href="https://www.linkedin.com/feed/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,10 +15,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+` 2012- 2016 `
+__Whitewater High School__, Fayetteville, GA
 
-- Full academic scholarship with 4.0 GPA
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
@@ -73,12 +71,22 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2016`
+__Cinemark Tinseltown 17__, Georgia
 
+- Usher, Concession, worked shifts 6 day a week 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2016`
+__Landscape Elite__, Georgia
+
+- Landscaping duties and clean up 
+
+`2017-2019`
+__Service Missionary__, Utah
+
+- Two year calling to find and teach people about church beliefs 
+- Traveled by car, bike, and foot, seven days a week to give service to others. 
+- Served with many different companions every six weeks, as well as being transferred to new locations 
 
 
 
